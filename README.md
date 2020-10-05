@@ -1,4 +1,1 @@
-# cPPTextEditor
-# CLITextEditor
-# CLITextEditor
 # CLITextEditor
